@@ -1,0 +1,40 @@
+nav{
+    background-color: deeppink;
+    padding: 8px;
+    margin: 2px ;
+}
+a{
+    color: gold;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+}
+
+body{
+    background-image: url(i2.jpg);
+    background-position: center;
+}
+label{
+    color: crimson;
+    font-size: 20px;
+}
+input{
+    border: 3px solid crimson;
+}
+
+div{
+    border: 3px solid black;
+    height: 30px;
+    width: 400px;
+    color:yellow;
+    font-size: 25px;
+}
+h1{
+    color: crimson;
+}
+button{
+    border:3px solid crimson;
+    border-radius: 60px 120px ;
+    padding: 8px;
+    background-color: darkgrey;
+}
